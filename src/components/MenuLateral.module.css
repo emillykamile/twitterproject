@@ -1,0 +1,48 @@
+.container {
+    display: flex;
+    margin: 1rem 3rem;
+}
+
+img {
+    margin: 0 1rem;
+}
+
+.home {
+    display: flex;
+    padding: 1rem 0;
+}
+
+.explorer {
+    display: flex;
+    padding: 1rem 0;
+}
+
+.notifications {
+    display: flex;
+    padding: 1rem 0;
+}
+
+.messages {
+    display: flex;
+    padding: 1rem 0;
+}
+
+.bookmarks {
+    display: flex;
+    padding: 1rem 0;
+}
+
+.lists {
+    display: flex;
+    padding: 1rem 0;
+}
+
+.profile {
+    display: flex;
+    padding: 1rem 0;
+}
+
+.more {
+    display: flex;
+    padding: 1rem 0;
+}

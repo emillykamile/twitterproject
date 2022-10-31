@@ -1,0 +1,24 @@
+ .container {
+    background: var(--primary-Blue);
+    padding: 1.25rem 0rem;
+    width: 100%;
+    color: #FFF;
+    position: fixed;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.buttons {
+    display: flex;
+}
+
+.login {
+    margin: 0px 8px 0px 0px;
+    cursor: pointer;
+}
+
+.logout {
+    cursor: pointer;
+} 
+
