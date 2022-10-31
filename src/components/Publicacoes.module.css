@@ -68,3 +68,34 @@ textarea::focus {
     max-height: 15rem;
     object-fit: cover;
 }
+
+.ProfileCircular {
+    border-radius: 20rem;
+    overflow: hidden;
+    object-fit: cover;
+}
+
+.containerPerfilIndividual {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.textProfilePost {
+    text-decoration: none;
+    text-transform: none;
+    margin: 0 0.50rem 0 0;
+}
+
+.textoAhobaProfile {
+    margin: 0.1rem 0.50rem 0 0;
+}
+
+time {
+    margin: 0.1rem 0.50rem 0 0;
+}
+
+.textoPublicado {
+    margin: 0.80rem 1rem;
+    max-width: 31rem;
+}
