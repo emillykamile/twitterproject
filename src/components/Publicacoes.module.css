@@ -1,3 +1,19 @@
+.containerOverflow{
+    height: 1026px;
+    overflow: auto;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #FFF;
+}
+::-webkit-scrollbar {
+    width: 6px;
+    background: #FFF;
+}
+::-webkit-scrollbar-thumb {
+    background: #FFF;
+}
+
 .opcoesPublicar {
     display: flex;
     align-items: center;
@@ -17,6 +33,13 @@
         color: var(--white);
         border-radius: 2rem;
         padding: 0.5rem 1rem;
+        cursor: pointer;
+}
+
+.buttonTweetHome:hover {
+    transition: 0.2s;
+    background-color: #1087d1;
+    cursor: pointer;
 }
 
 .hDois {

@@ -1,4 +1,15 @@
-.sidebar {
+
+.search {
     margin-top: 2rem;
+    background-color: #EBEEF0;
+    display: flex;
+    border-radius: 25rem;
+    padding: 0.60rem 1rem 0.60rem 0rem;
+    align-items: center;
+    justify-content: left;
+    width: 15rem;
 }
 
+.noticiasSearch {
+    display: flex;
+}

@@ -19,6 +19,7 @@ body {
 	background: var(--white);
 	color: var(--black);
 	--webkit-font-smothing: antialiased;
+	height: auto;
 }
 
 body, input, textarea, button {
