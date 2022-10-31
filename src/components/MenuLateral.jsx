@@ -55,6 +55,9 @@ export function MenuLateral() {
                   More
                 </h3>
               </div>
+              <div>
+                <button className={menuLateral.buttonTweet}>Tweet</button>
+              </div>
             </div>
           </div>
       </div>

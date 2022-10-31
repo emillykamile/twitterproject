@@ -46,3 +46,13 @@ img {
     display: flex;
     padding: 1rem 0;
 }
+
+.buttonTweet {
+    margin: 0.1rem;
+    margin-top: 1rem;
+    border-style: none;
+    background-color: #1DA1F2;
+    color: var(--white);
+    border-radius: 2rem;
+    padding: 1rem 4rem;
+}

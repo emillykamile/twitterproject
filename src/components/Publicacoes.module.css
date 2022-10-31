@@ -1,0 +1,70 @@
+.opcoesPublicar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 37.375rem;
+}
+.containerPostIndividual {
+    background-color: var(--white);
+    margin-left: 2rem;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+
+.buttonTweetHome {
+        border-style: none;
+        background-color: #1DA1F2;
+        color: var(--white);
+        border-radius: 2rem;
+        padding: 0.5rem 1rem;
+}
+
+.hDois {
+    margin: 1rem;
+}
+
+.show {
+    margin-left: 1rem;
+}
+
+.profile {
+    display: flex;
+    align-items: flex-start;
+}
+
+.profile img {
+    overflow: hidden;
+    object-fit: cover;
+}
+
+.darkThemeDiv {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 37.375rem;
+}
+
+
+
+textarea {
+    border-style: none;
+    resize: none;
+    width: 31.375rem;
+    height: 4.375rem;
+}
+
+textarea::hover {
+    border-style: none;
+    resize: none;
+}
+
+textarea::focus {
+    border-style: none;
+    resize: none;
+}
+
+.imgPost {
+    max-width: 31rem;
+    max-height: 15rem;
+    object-fit: cover;
+}

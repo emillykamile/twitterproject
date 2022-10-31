@@ -9,8 +9,10 @@
     align-items: center;
 }
 
+
 .buttons {
     display: flex;
+    align-items: center;
 }
 
 .login {
