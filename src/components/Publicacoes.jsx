@@ -2,12 +2,16 @@ import menuLateral from './Publicacoes.module.css';
 
 export function Publicacoes(props) {
 
+    console.log(props)
+
     return  (
         <div className={menuLateral.bordaCinza}>
             <div>
                 <div className={menuLateral.darkThemeDiv}>
                     <h2 className={menuLateral.hDois}>Home</h2>
-                    <img src='./src/assets/DarkThemeStar.png' className={menuLateral.darkTheme}></img>
+                    <a href=' '>
+                        <img src='./src/assets/DarkThemeStar.png' className={menuLateral.darkTheme}></img>
+                    </a>
                 </div>
                 <div className={menuLateral.marginNaProfile}>
                     <div className={menuLateral.profile}>

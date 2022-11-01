@@ -12,13 +12,13 @@ const posts = [
   {
     id: 1,
     author: {
-      avatarURL: 'https://www.linkedin.com/in/emillykamile/',
+      avatarURL: 'https://github.com/emillykamile',
       name: 'Emilly Kamile',
       role: 'Desenvolvedora FrontEnd'
     },
   content: [
     { type: 'paragraph', content:  "Tom is in a big hurry"},
-    { type: 'image', content:  "/DoisImagemPublicacao"},
+    { type: 'image', content:  "/ImagemPublicacao"},
     { type: 'image', content:  "/Actions"},
     { type: 'link', content:  "Show this thread"},
   ],
@@ -34,7 +34,15 @@ export function App() {
           <MenuLateral />
           <main className={stylesapp.main}>
             <div>
-              <Publicacoes />
+            {posts.map(post => {
+		            return (
+		              <Publicacoes
+		                author={post.author}
+                    content={post.content}
+                    publishedAt={post.publishedAt}
+		              />
+		            )
+	            })}
             </div>
           </main>
           <BarraLateral />
