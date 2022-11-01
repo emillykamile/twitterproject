@@ -1,8 +1,11 @@
 .containerOverflow{
     height: 1026px;
-    overflow: auto;
+    
 }
 
+.bordaCinza {
+    overflow: auto;
+}
 ::-webkit-scrollbar-track {
     background-color: #FFF;
 }
@@ -48,6 +51,8 @@
 
 .show {
     margin-left: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 3rem;
 }
 
 .profile {

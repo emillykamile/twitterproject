@@ -9,7 +9,7 @@ export function BarraLateral() {
                     <img src="./src/assets/SearchLupa.png"></img>
                     <p>Search Twitter</p>
                 </div>
-                <div>
+                <div className={barralateral.containerSearch}>
                     <div>
                         <h2>What’s happening</h2>
                     </div>

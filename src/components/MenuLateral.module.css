@@ -12,9 +12,19 @@ img {
     padding: 1rem 0;
 }
 
+.home:hover {
+    color: #1087d1;
+    transition: 0.4s;
+}
+
 .explorer {
     display: flex;
     padding: 1rem 0;
+}
+
+.explorer:hover {
+    color: #1087d1;
+    transition: 0.4s;
 }
 
 .notifications {
@@ -22,9 +32,19 @@ img {
     padding: 1rem 0;
 }
 
+.notifications:hover {
+    color: #1087d1;
+    transition: 0.4s;
+}
+
 .messages {
     display: flex;
     padding: 1rem 0;
+}
+
+.messages:hover {
+    color: #1087d1;
+    transition: 0.4s;
 }
 
 .bookmarks {
@@ -32,9 +52,19 @@ img {
     padding: 1rem 0;
 }
 
+.bookmarks:hover {
+    color: #1087d1;
+    transition: 0.4s;
+}
+
 .lists {
     display: flex;
     padding: 1rem 0;
+}
+
+.lists:hover {
+    color: #1087d1;
+    transition: 0.4s;
 }
 
 .profile {
@@ -42,9 +72,19 @@ img {
     padding: 1rem 0;
 }
 
+.profile:hover {
+    color: #1087d1;
+    transition: 0.4s;
+}
+
 .more {
     display: flex;
     padding: 1rem 0;
+}
+
+.more:hover {
+    color: #1087d1;
+    transition: 0.4s;
 }
 
 .buttonTweet {

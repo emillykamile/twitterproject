@@ -1,6 +1,6 @@
 import menuLateral from './Publicacoes.module.css';
 
-export function Publicacoes() {
+export function Publicacoes(props) {
 
     return  (
         <div className={menuLateral.bordaCinza}>

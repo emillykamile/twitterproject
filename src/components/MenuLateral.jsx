@@ -56,7 +56,7 @@ export function MenuLateral() {
                 </h3>
               </div>
               <div>
-                <button type="submit" src="" className={menuLateral.buttonTweet}>Tweet</button>
+                <button src="" className={menuLateral.buttonTweet}>Tweet</button>
               </div>
             </div>
           </div>
