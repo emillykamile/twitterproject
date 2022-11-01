@@ -1,6 +1,6 @@
  .container {
     background: var(--primary-Blue);
-    padding: 1.25rem 0rem;
+    padding: 1rem 0rem;
     width: 100%;
     color: #FFF;
     position: fixed;
@@ -24,3 +24,34 @@
     cursor: pointer;
 } 
 
+.loginButton {
+    border-style: none;
+    background-color: #1da0f200;
+    color: var(--white);
+    border-radius: 2rem;
+    border-style: solid;
+    border-color: #EBEEF0;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+}
+
+.signUp {
+    border-style: none;
+    background-color: #EBEEF0;
+    color: #000;
+    border-radius: 2rem;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+}
+
+.rodape {
+    position: fixed;
+    top: 32.5rem; 
+    left: 0rem;
+
+}
+
+p {
+    margin-top: 0;
+    margin-left: 1rem;
+}

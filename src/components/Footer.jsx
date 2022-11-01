@@ -18,10 +18,14 @@ export function Footer() {
         
                 <div className={styles.buttons}>
                     <div className={styles.login}>
-                        <button type="submit">Login in</button>
+                        <a href='../../erro404.html'>
+                            <button type="submit" className={styles.loginButton}>Login in</button>
+                        </a>
                     </div>
                     <div className={styles.logout}>
-                        <button type="submit">Sign up</button>
+                        <a href='../../erro404.html'>
+                            <button type="submit" className={styles.signUp}>Sign up</button>
+                        </a>
                     </div>
                 </div>
             </div>

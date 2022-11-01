@@ -43,7 +43,7 @@ export function Publicacoes(props) {
                     <p className={menuLateral.textoPublicado}>Tom is in a big hurry.</p>
                     <img src="./src/assets/UmImagemPublicacao.png" className={menuLateral.imgPost}></img>
                     <img src="./src/assets/Actions.png"></img>
-                    <a href=""><h3 className={menuLateral.show}>Show this thread</h3></a>
+                    <a href="../../erro404.html"><h3 className={menuLateral.show}>Show this thread</h3></a>
                 </div>
                 <div className={menuLateral.containerPostIndividual}>
 
@@ -61,7 +61,7 @@ export function Publicacoes(props) {
 
                     <img src="./src/assets/DoisImagemPublicacao.png" className={menuLateral.imgPost}></img>
                     <img src="./src/assets/Actions.png"></img>
-                    <a href=""><h3 className={menuLateral.show}>Show this thread</h3></a>
+                    <a href="../../erro404.html"><h3 className={menuLateral.show}>Show this thread</h3></a>
                 </div>
                 <div className={menuLateral.containerPostIndividual}>
                     <div className={menuLateral.containerPerfilIndividual}>
@@ -75,7 +75,7 @@ export function Publicacoes(props) {
                     <p className={menuLateral.textoPublicado}>Tom is in a big hurry.</p>
                     <img src="./src/assets/TresImagemPublicacao.png" className={menuLateral.imgPost}></img>
                     <img src="./src/assets/Actions.png"></img>
-                    <a href=""><h3 className={menuLateral.show}>Show this thread</h3></a>
+                    <a href="../../erro404.html"><h3 className={menuLateral.show}>Show this thread</h3></a>
                 </div>
                 <div className={menuLateral.containerPostIndividual}>
 
@@ -93,7 +93,7 @@ export function Publicacoes(props) {
 
                     <img src="./src/assets/DoisImagemPublicacao.png" className={menuLateral.imgPost}></img>
                     <img src="./src/assets/Actions.png"></img>
-                    <a href=""><h3 className={menuLateral.show}>Show this thread</h3></a>
+                    <a href="../../erro404.html"><h3 className={menuLateral.show}>Show this thread</h3></a>
                 </div>
                 <div className={menuLateral.containerPostIndividual}>
 
@@ -111,7 +111,7 @@ export function Publicacoes(props) {
 
                     <img src="./src/assets/DoisImagemPublicacao.png" className={menuLateral.imgPost}></img>
                     <img src="./src/assets/Actions.png"></img>
-                    <a href=""><h3 className={menuLateral.show}>Show this thread</h3></a>
+                    <a href="../../erro404.html"><h3 className={menuLateral.show}>Show this thread</h3></a>
                 </div>
                 <div className={menuLateral.containerPostIndividual}>
 
@@ -129,7 +129,7 @@ export function Publicacoes(props) {
 
                     <img src="./src/assets/DoisImagemPublicacao.png" className={menuLateral.imgPost}></img>
                     <img src="./src/assets/Actions.png"></img>
-                    <a href=""><h3 className={menuLateral.show}>Show this thread</h3></a>
+                    <a href="../../erro404.html"><h3 className={menuLateral.show}>Show this thread</h3></a>
                 </div>
             </div>
             

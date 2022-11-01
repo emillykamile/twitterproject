@@ -34,15 +34,7 @@ export function App() {
           <MenuLateral />
           <main className={stylesapp.main}>
             <div>
-            {posts.map(post => {
-		            return (
-		              <Publicacoes
-		                author={post.author}
-                    content={post.content}
-                    publishedAt={post.publishedAt}
-		              />
-		            )
-	            })}
+              <Publicacoes />
             </div>
           </main>
           <BarraLateral />

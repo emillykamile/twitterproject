@@ -9,7 +9,7 @@ img {
 
 .home {
     display: flex;
-    padding: 1rem 0;
+    padding: 0.5rem 0;
 }
 
 .home:hover {
@@ -19,7 +19,7 @@ img {
 
 .explorer {
     display: flex;
-    padding: 1rem 0;
+    padding: 0.5rem 0;
 }
 
 .explorer:hover {
@@ -29,7 +29,7 @@ img {
 
 .notifications {
     display: flex;
-    padding: 1rem 0;
+    padding: 0.5rem 0;
 }
 
 .notifications:hover {
@@ -39,7 +39,7 @@ img {
 
 .messages {
     display: flex;
-    padding: 1rem 0;
+    padding: 0.5rem 0;
 }
 
 .messages:hover {
@@ -49,7 +49,7 @@ img {
 
 .bookmarks {
     display: flex;
-    padding: 1rem 0;
+    padding: 0.5rem 0;
 }
 
 .bookmarks:hover {
@@ -59,7 +59,7 @@ img {
 
 .lists {
     display: flex;
-    padding: 1rem 0;
+    padding: 0.5rem 0;
 }
 
 .lists:hover {
@@ -69,7 +69,7 @@ img {
 
 .profile {
     display: flex;
-    padding: 1rem 0;
+    padding: 0.5rem 0;
 }
 
 .profile:hover {
@@ -79,7 +79,7 @@ img {
 
 .more {
     display: flex;
-    padding: 1rem 0;
+    padding: 0.5rem 0;
 }
 
 .more:hover {
@@ -102,4 +102,14 @@ img {
     transition: 0.2s;
     background-color: #1087d1;
     cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover { 
+    color: #1087d1;
+    transition: 0.4s;
 }
