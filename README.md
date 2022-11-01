@@ -5,33 +5,30 @@ Referente a sprint V, do time de front-end da Compass. Layout seguido no projeto
 
 # Tecnologias/ferramentas Utilizadas <br>
 
-- HTML <br>
-- CSS <br>
-- Typescript <br>
-- React <br>
-- Tailwind <br>
-- Vite <br>
-- Storybook <br>
+- ☑ HTML <br>
+- ☑ CSS <br>
+- ☑ React <br>
+- ☑ Vite <br>
 
 # Requisitos Obrigatórios/Funcionais <br>
 
 *Telas:*  <br>
 
-- Home <br> 
-- Profile <br> 
+- ☑ Home <br> 
+
 
 *Documentação:* <br>
 - Documentar no Storybook <br>
 
 *Funcionalidades:* <br>
-- Erro 404 em todos os botões <br>
+☑ Erro 404 em todos os botões <br>
 - Opção de inserir post <br>
 - Funcionalidade de horário no post <br>
 - 300 caracteres por texto em cada post <br>
 - Funcionalidade de inserir fotos em cada publicação <br>
 - Modo Dark ao clicar na estrela <br>
-- Scroll somente na parte de publicações <br>
-- Rodapé Fixado <br>
+☑ Scroll somente na parte de publicações <br>
+☑ Rodapé Fixado <br>
 
 # UI Twitter Page <br>
 
